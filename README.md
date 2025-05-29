@@ -36,22 +36,22 @@ KPI Cards (Top Panel)
 • Total Orders
 • Profit Ratio (%)
 
-Sales & Profit by Region (Map Visual)
+**Sales & Profit by Region (Map Visual)**
 Geographic representation of where sales and profit are concentrated across the U.S. Allows easy spotting of underperforming regions.
 
-Category & Sub-Category Analysis (Bar Charts)
+**Category & Sub-Category Analysis (Bar Charts)**
 Breaks down sales and profit by category and sub-category to uncover top-performing product lines.
 
-Sales Trend Over Time (Line Chart)
+**Sales Trend Over Time (Line Chart)**
 Displays sales trends by month/year. Highlights seasonality and helps in demand forecasting.
 
-Segment-wise Performance (Stacked Column Chart)
+**Segment-wise Performance (Stacked Column Chart)**
 Shows contribution of Consumer, Corporate, and Home Office segments to overall sales.
 
-Top 10 & Bottom 10 Products (Table/Bar Chart)
+**Top 10 & Bottom 10 Products (Table/Bar Chart)**
 Helps identify bestsellers and items dragging down profit margins.
 
-Discount Impact Analysis (Scatter Plot)
+**Discount Impact Analysis (Scatter Plot)**
 Correlates discount percentage with profit and sales to study if heavy discounts are eating into profits or driving volume.
 
 • Business Impact & Insights
@@ -61,4 +61,4 @@ Correlates discount percentage with profit and sales to study if heavy discounts
 📌 Marketing Focus: Tailor marketing strategies toward high-performing regions and segments.
 📌 Executive Reporting: Quickly convey business health and growth areas using dynamic visuals and KPIs.
 
-(https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG)
+![Alt Text]((https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG))
