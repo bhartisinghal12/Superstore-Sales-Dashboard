@@ -53,6 +53,8 @@ Helps identify bestsellers and items dragging down profit margins.
 Discount Impact Analysis (Scatter Plot)
 Correlates discount percentage with profit and sales to study if heavy discounts are eating into profits or driving volume.
 
+https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG
+
 • Business Impact & Insights
 📌 Revenue Optimization: Pinpoint low-margin products and identify pricing strategies that improve profitability.
 📌 Customer Segmentation: Understand which customer segments contribute most to sales and profit.
