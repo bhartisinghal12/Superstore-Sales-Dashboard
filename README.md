@@ -1,4 +1,5 @@
 **📦 Retail Pulse: Superstore Sales Performance Dashboard**
+
 An interactive Power BI dashboard designed to analyze sales performance, profitability trends, and customer behavior across regions, categories, and segments within a superstore retail environment.
 
 The Retail Pulse Dashboard provides a detailed and visually intuitive analysis of superstore sales data. It helps stakeholders explore key performance indicators, identify underperforming areas, and optimize business strategies through data-driven insights.
@@ -53,11 +54,11 @@ Helps identify bestsellers and items dragging down profit margins.
 Discount Impact Analysis (Scatter Plot)
 Correlates discount percentage with profit and sales to study if heavy discounts are eating into profits or driving volume.
 
-https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG
-
 • Business Impact & Insights
 📌 Revenue Optimization: Pinpoint low-margin products and identify pricing strategies that improve profitability.
 📌 Customer Segmentation: Understand which customer segments contribute most to sales and profit.
 📌 Inventory Planning: Use trends and product performance data to forecast demand and plan stock more accurately.
 📌 Marketing Focus: Tailor marketing strategies toward high-performing regions and segments.
 📌 Executive Reporting: Quickly convey business health and growth areas using dynamic visuals and KPIs.
+
+https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG
