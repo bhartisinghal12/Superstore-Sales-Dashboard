@@ -61,4 +61,4 @@ Correlates discount percentage with profit and sales to study if heavy discounts
 📌 Marketing Focus: Tailor marketing strategies toward high-performing regions and segments.
 📌 Executive Reporting: Quickly convey business health and growth areas using dynamic visuals and KPIs.
 
-https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG
+[https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG](https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG)
