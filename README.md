@@ -58,10 +58,15 @@ Helps identify bestsellers and items dragging down profit margins.
 Correlates discount percentage with profit and sales to study if heavy discounts are eating into profits or driving volume.
 
 • Business Impact & Insights
+
 📌 Revenue Optimization: Pinpoint low-margin products and identify pricing strategies that improve profitability.
+
 📌 Customer Segmentation: Understand which customer segments contribute most to sales and profit.
+
 📌 Inventory Planning: Use trends and product performance data to forecast demand and plan stock more accurately.
+
 📌 Marketing Focus: Tailor marketing strategies toward high-performing regions and segments.
+
 📌 Executive Reporting: Quickly convey business health and growth areas using dynamic visuals and KPIs.
 
 ![Alt Text](https://github.com/bhartisinghal12/Superstore-Sales-Dashboard/blob/main/Superstoresales%20Snap.PNG)
