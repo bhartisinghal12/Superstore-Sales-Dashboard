@@ -5,6 +5,7 @@ An interactive Power BI dashboard designed to analyze sales performance, profita
 The Retail Pulse Dashboard provides a detailed and visually intuitive analysis of superstore sales data. It helps stakeholders explore key performance indicators, identify underperforming areas, and optimize business strategies through data-driven insights.
 
 **Tech Stack**
+
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Core platform for creating data visualizations and reports.
 • 📂 Power Query Editor – Used for cleaning, transforming, and reshaping raw sales data.
@@ -13,13 +14,15 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbit (Power BI Template) for reusable structure and layout.
 
 **Data Source**
+
 Source: Superstore Sample Dataset from GitHub
 Structure:
 • 9 primary columns: Order ID, Order Date, Customer Name, Region, Category, Sub-Category, Sales, Quantity, Profit
 • Temporal coverage: Multiple years of transaction-level data
 • Supplementary columns: Ship Mode, Segment, Discount, State, and City for deeper granularity
 
-**Features **
+**Features**
+
 • Business Problem
 Retail managers often struggle to get a unified view of performance across different geographies, product categories, and customer segments. With raw data spread across multiple dimensions, it's difficult to answer operational and strategic questions quickly.
 
@@ -36,22 +39,22 @@ KPI Cards (Top Panel)
 • Total Orders
 • Profit Ratio (%)
 
-**Sales & Profit by Region (Map Visual)**
+-**Sales & Profit by Region (Map Visual)**
 Geographic representation of where sales and profit are concentrated across the U.S. Allows easy spotting of underperforming regions.
 
-**Category & Sub-Category Analysis (Bar Charts)**
+-**Category & Sub-Category Analysis (Bar Charts)**
 Breaks down sales and profit by category and sub-category to uncover top-performing product lines.
 
-**Sales Trend Over Time (Line Chart)**
+-**Sales Trend Over Time (Line Chart)**
 Displays sales trends by month/year. Highlights seasonality and helps in demand forecasting.
 
-**Segment-wise Performance (Stacked Column Chart)**
+-**Segment-wise Performance (Stacked Column Chart)**
 Shows contribution of Consumer, Corporate, and Home Office segments to overall sales.
 
-**Top 10 & Bottom 10 Products (Table/Bar Chart)**
+-**Top 10 & Bottom 10 Products (Table/Bar Chart)**
 Helps identify bestsellers and items dragging down profit margins.
 
-**Discount Impact Analysis (Scatter Plot)**
+-**Discount Impact Analysis (Scatter Plot)**
 Correlates discount percentage with profit and sales to study if heavy discounts are eating into profits or driving volume.
 
 • Business Impact & Insights
