@@ -8,17 +8,25 @@ The Retail Pulse Dashboard provides a detailed and visually intuitive analysis o
 
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Core platform for creating data visualizations and reports.
+
 • 📂 Power Query Editor – Used for cleaning, transforming, and reshaping raw sales data.
+
 • 🧠 DAX (Data Analysis Expressions) – Implemented to compute dynamic KPIs like profit ratio, YoY growth, and running totals.
+
 • 📝 Data Modeling – Relationships set up among orders, customers, products, and regions tables to allow for accurate filtering and aggregation.
+
 • 📁 File Format – .pbit (Power BI Template) for reusable structure and layout.
 
 **Data Source**
 
 Source: Superstore Sample Dataset from GitHub
+
 Structure:
+
 • 9 primary columns: Order ID, Order Date, Customer Name, Region, Category, Sub-Category, Sales, Quantity, Profit
+
 • Temporal coverage: Multiple years of transaction-level data
+
 • Supplementary columns: Ship Mode, Segment, Discount, State, and City for deeper granularity
 
 **Features**
@@ -34,10 +42,13 @@ Retail managers often struggle to get a unified view of performance across diffe
 
 • Walkthrough of Key Visuals
 KPI Cards (Top Panel)
+
 • Total Sales
+
 • Total Profit
+
 • Total Orders
-• Profit Ratio (%)
+
 
 -**Sales & Profit by Region (Map Visual)**
 Geographic representation of where sales and profit are concentrated across the U.S. Allows easy spotting of underperforming regions.
